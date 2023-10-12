@@ -1,4 +1,4 @@
-## Olá 👋👋👋 eu sou o Teixeira, criador de conteúdo de programação e tecnologia!
+## Olá! eu sou o Teixeira
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeixeiraManuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraManuel&layout=compact&langs_count=7&theme=dracula"/>
