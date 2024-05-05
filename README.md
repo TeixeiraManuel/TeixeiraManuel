@@ -27,7 +27,7 @@
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![React.js](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=fff)&nbsp;  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&labelColor=333333&textColor=333333)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=1572B6&style=flat-square)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=TypeScript&labelColor=333333&textColor=333333)&nbsp;
   
   ### Tools:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
