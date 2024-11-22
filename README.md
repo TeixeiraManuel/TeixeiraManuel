@@ -17,28 +17,30 @@
   
   
   <div align="center">  
-  
-  </div>
     
+ ## 🛠️ Languages and Tools
+    
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://www.typescriptlang.org/)
+[<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50">](https://getbootstrap.com/)
+[<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
+[<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
+[<img src="https://skillicons.dev/icons?i=next&theme=dark" width="50">](https://nextjs.dev/)
+[<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50">](https://www.postman.com/)
+[<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50">](https://figma.com/)
+[<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50">](https://vscode.com/)
   
-  ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&labelColor=333333)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=333333)&nbsp;
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![React.js](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=fff)&nbsp;  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&labelColor=333333&textColor=333333)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=TypeScript&labelColor=333333&textColor=333333)&nbsp;
-  
-  ### Tools:
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-  
-  ### Other skills:
-  
-  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1F333F?logo=tailwindcss&logoColor=FFF&style=for-the-badge)&nbsp;
-  
+  ## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8C67DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teixeira-manuel/)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teixeiramanuelteidy@gmail.com)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TeixeiraManuel&theme=github-dark-blue)](https://git.io/streak-stats)
+
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F85DE&height=120&section=footer"/>
