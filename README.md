@@ -43,8 +43,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8C67DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teixeira-manuel/)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teixeiramanuelteidy@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TeixeiraManuel&theme=github-dark-blue)](https://git.io/streak-stats)
-
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F85DE&height=120&section=footer"/>
