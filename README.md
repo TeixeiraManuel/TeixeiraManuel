@@ -21,6 +21,7 @@
  ## 🛠️ Languages and Tools
     
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/docker)
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://www.typescriptlang.org/)
