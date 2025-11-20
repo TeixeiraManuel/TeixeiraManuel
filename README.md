@@ -19,9 +19,8 @@
   <div align="center">  
     
  ## 🛠️ Languages and Tools
-    
+ 
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/docker)
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://www.typescriptlang.org/)
@@ -34,6 +33,11 @@
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 [<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50">](https://figma.com/)
 [<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50">](https://vscode.com/)
+[<img src="https://skillicons.dev/icons?i=nvim&theme=dark" width="50">](https://neovim.io/)
+[<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
+[<img src="https://skillicons.dev/icons?i=c&theme=dark" width="50">](https://en.cppreference.com/w/c)
+[<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50">](https://www.kernel.org/)
+
   
   ## 🌐 Connect with me
 
